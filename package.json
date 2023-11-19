@@ -1,0 +1,24 @@
+{
+  "name": "deploy-your-application_starter",
+  "version": "1.0.0",
+  "description": "little tiers",
+  "main": "http_server.js",
+  "scripts": {
+    "build": "npm install",
+    "start": "node http_server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rosadev02/deploy-your-application_starter.git"
+  },
+  "author": "rosadev02",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rosadev02/deploy-your-application_starter/issues"
+  },
+  "homepage": "https://github.com/rosadev02/deploy-your-application_starter#readme",
+  "engines": {
+    "node": "14.x"
+  }
+}
